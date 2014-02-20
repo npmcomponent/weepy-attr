@@ -1,4 +1,4 @@
-var Emitter = require('emitter')
+var Emitter = require('component-emitter')
 
 var methods = {
   incr: function (val) { 
